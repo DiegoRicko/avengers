@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Nick Fury
+* Spider Man (Agente libre)
